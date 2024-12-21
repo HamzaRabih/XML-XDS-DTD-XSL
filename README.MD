@@ -8,7 +8,7 @@
     - [DTD (Document Type Definition)](#2.DTD-(Document-Type-Definition))
     - [Schéma XML (XSD)](#3.Schéma-XML-(XSD))
     - [Feuille de Style XSL (Affichage Complet)](#4.Feuille-de-Style-XSL-(Affichage-Complet))
-4. [## Conclusion](#Conclusion)
+4. [Conclusion](#Conclusion)
 
 ## Introduction
 Cette application a pour objectif de permettre la gestion des relevés de comptes bancaires. Les données sont stockées dans des fichiers XML conformes à une structure prédéfinie, et diverses technologies XML ont été mises en œuvre pour valider, afficher et manipuler ces données. Ce document décrit les étapes et les outils utilisés dans le projet.
