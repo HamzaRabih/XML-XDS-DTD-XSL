@@ -7,7 +7,7 @@
     - [Structure Graphique de l'Arbre XML](#1.Structure-Graphique-de-l'Arbre-XML)
     - [DTD (Document Type Definition)](#2.DTD-(Document-Type-Definition))
     - [Schéma XML (XSD)](#3.Schéma-XML-(XSD))
-    - [Feuille de Style XSL (Affichage Complet)](#4.Feuille-de-Style-XSL-(Affichage Complet))
+    - [Feuille de Style XSL (Affichage Complet)](#4.Feuille-de-Style-XSL-(Affichage-Complet))
 4. [## Conclusion](#Conclusion)
 
 ## Introduction
