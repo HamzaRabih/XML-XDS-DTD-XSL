@@ -4,10 +4,10 @@
 1. [Introduction](#introduction)
 2. [Format XML des Relevés](#format-XML-des-Relevés)
 3. [Travail Réalisé](#Travail-réalisé)
-    - [1.Structure Graphique de l'Arbre XML](#1.Structure-Graphique-de-l'Arbre-XML)
-    - [2.DTD (Document Type Definition)](#2.DTD-(Document Type Definition))
-    - [3.Schéma XML (XSD)](#3.Schéma-XML-(XSD))
-    - [4.Feuille de Style XSL (Affichage Complet)](#4.Feuille-de-Style-XSL-(Affichage Complet))
+    - [Structure Graphique de l'Arbre XML](#1.Structure-Graphique-de-l'Arbre-XML)
+    - [DTD (Document Type Definition)](#2.DTD-(Document-Type-Definition))
+    - [Schéma XML (XSD)](#3.Schéma-XML-(XSD))
+    - [Feuille de Style XSL (Affichage Complet)](#4.Feuille-de-Style-XSL-(Affichage Complet))
 4. [## Conclusion](#Conclusion)
 
 ## Introduction
